@@ -4,9 +4,9 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Kikuchi form</title>
 </head>
 <body>
-<jsp:include page="${ content.getContent() }" />
+<%= "hello world!" %>
 </body>
 </html>
