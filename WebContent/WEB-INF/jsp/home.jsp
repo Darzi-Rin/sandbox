@@ -4,10 +4,8 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-<<<<<<< HEAD
 <meta charset="UTF-8">
-<title>Kikuchi form</title>
-=======
+<title>sample form</title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,13 +20,12 @@
 		$("strong").css("color", "red");
 	});
 	</script>
->>>>>>> branch 'main' of https://github.com/slowwind-kashiwa/sandbox_servlet
 </head>
 <body>
 <div class="container">
 	<header class="well">
-		<h1>大原簿記法律専門学校柏校</h1>
-		<h2>システム開発コース</h2>
+		<h1>Kikuchi Site</h1>
+		<h2>ようこそ！</h2>
 	</header>
 	<div class="row">
 		<div class="col-sm-3">
@@ -49,7 +46,7 @@
 		</div>
 	</div>
 	<footer class="well">
-		copyright&copy; 大原簿記法律専門学校柏校
+		copyright&copy; 2020 Kikuchi Site
 	</footer>
 </div>
 
