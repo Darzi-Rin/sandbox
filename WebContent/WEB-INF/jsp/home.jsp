@@ -39,6 +39,7 @@
 				</ul>
 			</div>
 			<module:User />
+			<module:Calendar />
 		</div>
 		<div class="col-sm-9">
 			<jsp:include page="${ content.getContent() }" />
